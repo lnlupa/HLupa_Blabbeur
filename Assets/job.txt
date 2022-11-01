@@ -1,0 +1,3 @@
+Job: [job]
+
+job: computer programmer; game designer; philosopher; plumber; ditch-digger; big-game hunter; supervillain; professional party guest; academic; rebel fighter; bounty hunter; thief; celebrity chef; superhero; rock star; janitor; comic book artist; firefighter; school board president; accountant

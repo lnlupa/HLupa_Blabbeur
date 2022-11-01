@@ -1,0 +1,10 @@
+//Comments… ex: Requires vars: age, influence, name
+
+Portrait: [Type1]; [Type2]; [Type3]; [Type4];
+Type1: <name> was [influence].;
+Type2: <name> was <age>, [age].;
+Type3: <name>, was married to <spouse.name>, age <spouse.age> who was married to <spouse.spouse.name>. They lived on <World.name>;
+Type4: <name>'s spouse, <spouse.name>, was [spouseinfluence]
+spouseinfluence: {spouse.influence<100} unimportant; {100<spouse.influence && spouse.influence<200} notable; {spouse.influence>200} very important;
+age: {age<35} young; {35 < age && age < 55} middle-aged;
+influence: {influence<100} unimportant; {100<influence && influence<200} notable; {influence>200} very important;

@@ -1,0 +1,5 @@
+AboutAGuy: His name is [name], he's [age], he keeps a [pet] as a pet, and he works as a [job].
+name: Scrimblo; Brimblo; Bingus; Bongus; Scrungus
+age: youthful; full-grown; old; hellishly ancient
+pet: cat; dog; lizard; bird; gremlin; human baby
+job: doctor; lawyer; graverobber

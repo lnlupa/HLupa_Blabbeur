@@ -1,0 +1,3 @@
+Bestfriend: [bestfriend]
+
+bestfriend: no one; everyone; a dog; a cat; a ghost; a fish; Steve from next door; Long Jim; the new kid; that weird guy who lives by the railroad tracks; God; the cinema

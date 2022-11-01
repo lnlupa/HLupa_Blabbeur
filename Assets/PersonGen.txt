@@ -1,0 +1,5 @@
+InventAPerson: [name]
+
+name:[firstName] [lastName]
+firstName: Tilly; Charlotte; Mark; Bruce; Sunflower; Julian; Florian; Jacques; Enrique; Orlanda; Archie; Veronica; Betty; Jughead; Fred; Velma; Daphne; Scooby; Shaggy; Clarke; Bellamy; Raven; John; Octavia; Echo; Buffy; Xander; Willow; Amos; James; Naomi; Alex; Jeff; Britta; Troy; Abed; Pierce; Shirley; Annie; Slavoj; Andrei
+lastName: Tubbs; Libbman; Morales; Gallagher; Lee; Derrida; Prince; Burton; Bingo; Andrews; Lodge; Cooper; Jones; Blake; Dinkley; Griffin; Reyes; Murphy; Summers; Rosenberg; Foucault; Althusser; Deleuze; Zizek; Petzold; Murnau; Lang; Guy-Blache; Sun; Crichton; Holden; Nagata; Kamal; Tarkovsky

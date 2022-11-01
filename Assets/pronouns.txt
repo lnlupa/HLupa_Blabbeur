@@ -1,0 +1,3 @@
+Pronouns: [pronoun]
+
+pronoun: she/her/hers; he/him/his; they/them/theirs; xie/xier/xiers
